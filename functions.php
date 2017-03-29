@@ -6,7 +6,7 @@
  * @var array
  */
 $config = [
-    'name' => 'Simple PHP Website',
+    'name' => 'Chepparmba Sree Pottan kottam dhiavasthanam',
 ];
 
 /**
